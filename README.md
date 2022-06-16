@@ -19,7 +19,6 @@ Hi there, I'm *Guilherme Lourenço** a **FullStack Developer** 🚀 from Brasil,
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I am passionate about Information Security and Pentest 🔒🔑🔓;
 - 🤔 Web Development and a little bit of Mobile;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
