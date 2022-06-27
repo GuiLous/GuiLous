@@ -37,8 +37,8 @@ Hi there, I'm *Guilherme Lourenço** a **FullStack Developer** 🚀 from Brasil,
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiLous&repo=ifma_repo_backend" alt="ifma_repo_backend" />
 </a>
 
-<a href="https://github.com/GuiLous/NLW_RETURN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiLous&repo=NLW_RETURN" alt="NLW_RETURN" />
+<a href="https://github.com/GuiLous/ignite-lab-event-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuiLous&repo=ignite-lab-event-platform" alt="ignite-lab-event-platform" />
 </a>
 
 <br />
