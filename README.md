@@ -23,7 +23,7 @@ Hi there, I'm *Guilherme Lourenço** a **FullStack Developer** 🚀 from Brasil,
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please send email to guilhermesilva@acad.ifma.edu.br to reach me.
-- 📝 See my Curriculum (https://drive.google.com/file/d/15YOT9Aw7Jisl_suo4OeA7yG1Mv9RixXT/view?usp=sharing) to get more info.
+- 📝 See my Curriculum (https://drive.google.com/file/d/1R3eVe8ZtYPHegTj-y-BSgWBVFUx0UXF6/view?usp=sharing) to get more info.
 
 <br />
 <br />
